@@ -22,3 +22,4 @@
 - [자료구조 정리 블로그](https://lypicfa.tistory.com/557?fbclid=IwAR3--Y_1AGYd0p-VdvnmW-d5A1itILrMosWgl3rrmFtk8xzQcjAUOczLuN4)
 - [Open Data Structures in C++](http://opendatastructures.org/ods-cpp/)
 - [Visualgo.net](https://visualgo.net/en)
+- [518일동안 단 하루도 빠지지 않고 알고리즘을 풀었다.](https://kwiki.devserum.com/ko/articles/tech-articles/2021-05-31-518-consecutive-days-algorithm-challenge)
