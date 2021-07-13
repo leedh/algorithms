@@ -1,4 +1,10 @@
 # algorithms
+## 알고리즘 문제 사이트
+- [LeetCode](https://leetcode.com/)
+- [codewars](https://www.codewars.com/)
+- [codeup](https://codeup.kr/)
+- [Baekjoon](https://www.acmicpc.net/) 
+- [programmers](https://programmers.co.kr/)
 
 ## 강의
 - [MIT: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/), [한국어번역](https://www.boostcourse.org/cs113/intro)
@@ -14,6 +20,7 @@
 
 ## 문제풀이
 - [유튜브 '동빈나' Codeup 기초 100제 with C 1번~40번](https://youtu.be/mY1-xSmJEic)
+- [유튜브 '동빈나' Codeup 기초 100제 with C 41번~80번](https://youtu.be/IyhbWlaaG_M)
 - [유튜브 '로밍맨' 백준 문제풀이](https://www.youtube.com/playlist?list=PL9USRQiUABy5c6r33CGqT0UzxGy33WmYD)
 - [유튜브 '제주코딩베이스캠프' 카카오 코딩테스트 2018-2021 Python 풀이](https://www.youtube.com/watch?v=orf9ailzXvI)
 
