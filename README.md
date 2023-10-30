@@ -1,6 +1,7 @@
 # algorithms
 ## 알고리즘 문제 사이트
 - [LeetCode](https://leetcode.com/)
+  - [LeetHub](https://github.com/arunbhardwaj/LeetHub-2.0)를 사용하면 Chrome Extension을 통해 Github과 연동하여 제출 답을 지정한 repository에 쉽게 커밋할 수 있다
 - [codewars](https://www.codewars.com/)
 - [codeup](https://codeup.kr/)
 - [Baekjoon](https://www.acmicpc.net/) 
